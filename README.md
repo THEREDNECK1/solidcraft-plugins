@@ -1,4 +1,4 @@
-# solidcraft-plugins
+
 # SolidCraft Plugins Registry
 
 The official community registry and distribution index for **SolidCraft** plugins and kernel extensions.
