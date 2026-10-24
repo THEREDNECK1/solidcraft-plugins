@@ -1,0 +1,16 @@
+cat << 'EOF' > index.json
+[
+  {
+    "id": "org.solidcraft.gear-generator",
+    "name": "Spur Gear Generator",
+    "version": "0.1.0",
+    "author": "THEREDNECK1",
+    "description": "Procedural parametric involute spur gear generator with customizable tooth profiles and shaft bores.",
+    "category": "Features",
+    "entry_point": "gear_generator.wasm",
+    "min_kernel_version": "0.20.0",
+    "download_url": "https://github.com/THEREDNECK1/solidcraft-plugins/releases/download/v0.1.0/org.solidcraft.gear-generator.zip",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  }
+]
+EOF
